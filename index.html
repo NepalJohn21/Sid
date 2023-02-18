@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=360, initial-scale=1.0">
     <title>SID</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>0</h1>
-    <button>More Now</button>
+    <h1 class="sids">0</h1>
+    <button onclick="localStorage.setItem('sid', Number(localStorage.sid) + 1)">More Now</button>
 </body>
 </html>
