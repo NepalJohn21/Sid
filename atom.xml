@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Atomer</title>
+    <subtitle>Infomation Source blogspot.</subtitle>
+    <link rel="self" href="https://the-sid-gamers.vercel.app/"/>
+    <id>https://the-sid-gamers.vercel.app/</id>
+    <updated>2023-02-18T17:52:00-08:00</updated>
+    <author>
+         <name>Vercel</name>
+    </author>
+    <rights>Copyright (c) 2023 jwklong-d</rights>
+    <category term="Vercel"/>
+    <entry>
+        <title>Atomer</title>
+        <link rel="alternate" href="https://jwklong-d.github.io/Octo-Trimail/"/>
+        <id>https://jwklong-d.github.io/Octo-Trimail/</id>
+        <updated>2023-02-16T11:24:00-08:00</updated>
+        <summary type="html">nosummary</summary>
+        <author>
+         <name>jwklong-d</name>
+        </author>
+        <category term="Vercel"/>
+    </entry>
+</feed>
