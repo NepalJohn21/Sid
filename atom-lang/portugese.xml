@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Atomer</title>
+    <link rel="self" href="https://the-sid-gamers.vercel.app/pt" />
     <id>https://the-sid-gamers.vercel.app/pt/</id>
     <updated>2023-02-18T17:52:00-08:00</updated>
     <author>
@@ -10,6 +11,7 @@
     <category term="Vercel"/>
     <entry>
         <title>Atomer</title>
+        <link rel="self" href="https://the-sid-gamers.vercel.app/pt" />
         <id>https://the-sid-gamers.vercel.app/pt/</id>
         <updated>2023-02-18T17:52:00-08:00</updated>
         <summary type="html">nosummary</summary>
